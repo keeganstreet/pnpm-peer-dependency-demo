@@ -1,0 +1,14 @@
+{
+  "name": "shared-server",
+  "version": "1.0.0",
+  "main": "./shared-server.js",
+  "dependencies": {
+    "node-noop": "1.0.0"
+  },
+  "peerDependencies": {
+    "react": "^17 || ^18"
+  },
+  "files": [
+    "shared-server.js"
+  ]
+}

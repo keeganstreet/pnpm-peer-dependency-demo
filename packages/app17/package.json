@@ -1,0 +1,11 @@
+{
+  "name": "app17",
+  "private": true,
+  "dependencies": {
+    "react": "^17.0.2",
+    "shared-server": "workspace:^"
+  },
+  "files": [
+    "index.js"
+  ]
+}
