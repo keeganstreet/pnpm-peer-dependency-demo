@@ -1,0 +1,8 @@
+{
+  "name": "shared-server",
+  "version": "1.0.0",
+  "main": "./shared-server.js",
+  "peerDependencies": {
+    "react": "17 || 18"
+  }
+}

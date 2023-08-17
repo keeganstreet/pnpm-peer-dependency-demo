@@ -1,0 +1,8 @@
+{
+  "name": "app17",
+  "private": true,
+  "dependencies": {
+    "react": "17",
+    "shared-server": "^1.0.0"
+  }
+}
